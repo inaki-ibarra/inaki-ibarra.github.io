@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$base-color: #4f5be6;
+$light-color: #dedede;
+$light-grey-color: #383838;
+$dark-color: #232323;
+
+body {
+  background-color: $dark-color;
+  color: $light-color;
+}
+
+.site-nav .page-link {
+  color: $light-color;
+}
+
+.site-title, .site-title:visited {
+  color: $light-color;
+}
+
+a, a:visited {
+  color: $base-color;
+}
+
+a:hover {
+  color: $light-color;
+}
+
+#job-title {
+  color: $base-color;
+}
+
+header.site-header {
+  border-bottom: 1px solid $light-grey-color;
+}
+
+footer.site-footer {
+  border-top: 1px solid $light-grey-color;
+}
+
+pre, code {
+  background-color: $light-grey-color;
+}
