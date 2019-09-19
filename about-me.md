@@ -12,10 +12,14 @@ I have over 6 years of web development experience with the help of tools like:
 
 `Rails (Ruby)`, `Laravel (PHP)`, `EmberJS (Javascript)`, `Linux`, `SQL` and others. 
 
-View my [resume](/resume) for more details.
+For more details view <a href="{{site.resume_url}}" target="_blank">my resume</a>.
 
-## Hobby
+## Interest
 
-When not coding, I solve puzzles, play video games or do artistic stuff.
+`Science and Technology`, `Philosophy`, `Arts`, `Games`, `Mysteries`
 
+## Profiles
 
+<div class="social-links">
+  {%- include social.html -%}
+</div>
