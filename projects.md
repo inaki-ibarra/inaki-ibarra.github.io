@@ -6,4 +6,42 @@ permalink: /projects/
 
 # Projects
 
-## Under Construction
+I've been part of multiple products throughout my career. These are just few notable projects of mine.
+
+## MiDash
+
+![midash](/assets/images/midash.gif)
+
+A SaaS application built to improve and innovate existing processes in real estate (Selling, Inventory, Management, Reports, etc.). It is cloud based, accessible through web and multi-tenant.
+
+Level: Production
+
+Date: Jun 2014 - Jun 2019
+
+Tech Stack: `Ruby on Rails`, `Laravel`, `PostgreSQL`, `MySQL`, `Jenkins`, `Nginx`, `EmberJS`
+
+## MiDash Mobile
+
+![m-mobile-1](/assets/images/m-mobile-1.gif)
+![m-mobile-2](/assets/images/m-mobile-2.gif)
+
+A mobile version of MiDash, available in Android (Google Appstore) and IOS (Itunes). 
+It is progressive, features portability, notification and offline mode.
+
+Level: Production
+
+Date: May 2017 - Jun 2019
+
+Tech Stack: `IOS SDK`, `Android SDK`, `Firebase`, `EmberJS`, `Cordova`
+
+## VSCode Daily Notes
+
+![vscode-daily-notes](/assets/images/vscode-daily-notes.gif)
+
+A simple text-based journal extension for Visual Studio Code. A tool I built to suit my workflow.
+
+Level: Personal Mini Project
+
+Date: Sep 2019
+
+Tech Stack: `NodeJS`, `VSCode Extension API`
