@@ -37,6 +37,7 @@ Tech Stack: `IOS SDK`, `Android SDK`, `Firebase`, `EmberJS`, `Cordova`
 ## VSCode Daily Notes
 
 ![vscode-daily-notes](/assets/images/vscode-daily-notes.gif)
+![vscode-daily-notes-tags](/assets/images/vscode-daily-notes-tags.jpg)
 
 A simple text-based journal extension for Visual Studio Code. A tool I built to suit my workflow.
 
