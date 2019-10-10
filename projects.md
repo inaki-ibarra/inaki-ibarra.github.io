@@ -25,7 +25,7 @@ Tech Stack: `Ruby on Rails`, `Laravel`, `PostgreSQL`, `MySQL`, `Jenkins`, `Nginx
 ![m-mobile-1](/assets/images/m-mobile-1.gif)
 ![m-mobile-2](/assets/images/m-mobile-2.gif)
 
-A mobile version of MiDash, available in Android (Google Appstore) and IOS (Itunes). 
+A mobile version of MiDash, available in Android (Google Play) and IOS (Itunes).
 It is progressive, features portability, notification and offline mode.
 
 Level: Production
@@ -45,4 +45,16 @@ Level: Personal Mini Project
 
 Date: Sep 2019
 
-Tech Stack: `NodeJS`, `VSCode Extension API`
+Tech Stack: `Javascript`, `VSCode Extension API`
+
+## List'nTell
+
+![vscode-daily-notes](/assets/images/listntell.jpg)
+
+Not your average checklist app. This mobile app allows you to create your own checklists and share it to the world. Your followers can like or comment to your updates. Copying public checklists is also possible. I designed, prototype and develop this app.
+
+Level: Personal Mini Project (Unreleased)
+
+Date: Sep 2019
+
+Tech Stack: `React Native`, `Expo`, `Ruby on Rails`, `GraphQL`, `PostgreSQL`
