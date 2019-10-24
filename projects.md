@@ -7,7 +7,7 @@ permalink: /projects/
 # Projects
 
 I've been part of multiple products throughout my career. These are just few notable projects of mine.
-You can also view my open-sourced projects in [GitHub](https://github.com/inaki-ibarra?tab=repositories).
+You can also view my open-sourced projects on [GitHub](https://github.com/inaki-ibarra?tab=repositories).
 
 ## MiDash
 
