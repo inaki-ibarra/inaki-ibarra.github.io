@@ -21,6 +21,7 @@ url: "https://inaki-ibarra.github.io" # the base hostname & protocol for your si
 resume_url: "https://drive.google.com/drive/folders/18u0mVIhDkibwKu71kU_7OkpD1PctI7uR"
 github_username: inaki-ibarra
 linkedin_username: inaki-ibarra
+google_analytics: UA-155232723-1
 
 # Build settings
 markdown: kramdown
