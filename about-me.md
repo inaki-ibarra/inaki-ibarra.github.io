@@ -8,7 +8,8 @@ permalink: /about-me/
 
 I often solve these 2 problems:
 
-1: What is the right thing to build? </br>
+1: What is the right thing to build?
+
 2: How to build it right?
 
 ## Experience
