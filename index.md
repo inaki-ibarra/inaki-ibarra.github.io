@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1> I'm Iñaki Ibarra, a <span id="job-title"></span> </h1>
+<h1><span id="intro">I'm Iñaki Ibarra, a <span id="job-title"></span></h1>
 
 ## Simplicity, Competence, Elegance, Practicality
 
