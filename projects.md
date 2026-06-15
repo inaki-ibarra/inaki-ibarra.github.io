@@ -9,6 +9,18 @@ permalink: /projects/
 I've been part of multiple products throughout my career. These are just few notable projects of mine.
 You can also view my open-sourced projects on [GitHub](https://github.com/inaki-ibarra?tab=repositories).
 
+## EntriScan
+
+![entriscan](/assets/images/entriscan.png)
+
+A modern QR-based attendance and member management platform for communities, events, and organizations. EntriScan simplifies check-ins with QR codes, eliminates manual entry, and provides real-time attendance tracking. Features include customizable check-in pages, member groups, custom fields, advanced reporting, and community pages.
+
+Level: Commercial SaaS, Production
+
+Date: 2025 - Present
+
+Tech Stack: `Vue 3`, `TypeScript`, `Ruby on Rails`, `PostgreSQL`, `Tailwind CSS`, `Pinia`, `Vite`
+
 ## MiDash
 
 ![midash](/assets/images/midash.gif)
