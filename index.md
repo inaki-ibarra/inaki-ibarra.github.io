@@ -4,14 +4,14 @@ layout: default
 
 <h1><span id="intro">I'm Iñaki Ibarra, a </span><span id="job-title"></span></h1>
 
-## Simplicity, Competence, Elegance, Practicality
+## Simple. Elegant. Competent. Pragmatic.
 
-These are the four values that guide me in my craft. From a simple programming function to a production level project, these help me produce satisfying results.
+These four values guide every line of code I write. Whether crafting a single function or architecting production systems, I focus on clarity over complexity, quality over shortcuts, and solutions that actually work.
 
-## So how can I help you?
+## What would you like to explore?
 
-- a. [Show me your projects](/projects)
-- b. [I want to know more about you](/about-me)
-- c. <a href="{{site.resume_url}}" target="_blank">Let me see your resume</a>
+- [View my projects](/projects) — See what I've built
+- [Learn more about me](/about-me) — My background and approach
+- <a href="{{site.resume_url}}" target="_blank">Download my resume</a> — Professional experience
 
 
