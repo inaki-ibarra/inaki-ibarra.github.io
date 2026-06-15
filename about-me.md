@@ -14,7 +14,7 @@ I often solve these 2 problems:
 
 ## Experience
 
-I have about 10 years of web development experience with the help of tools like: 
+I have over 12 years of web development experience with the help of tools like: 
 
 `Rails (Ruby)`, `Python`, `Golang`, `PHP`, `Javascript`, `VueJS`, `EmberJS`, `Linux`, `SQL`, `Google Cloud` and others. 
 
